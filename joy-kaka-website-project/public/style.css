@@ -1,0 +1,127 @@
+#about-title {
+    text-align: center;
+    color: darkorange;
+    font-family: "Rubik Gemstones", cursive;
+    font-weight: 550;
+    margin-top: 20px;
+}
+
+body {
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    color: black;
+    font-family: "Montserrat", cursive;
+    font-weight: 550;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+.about-subtitle {
+    text-align: center;
+    color: darkgreen;
+    font-family: "Lobster Two", cursive;
+    font-weight: 550;
+    margin-top: 30px;
+}
+
+.about-sub{
+    color:rgba(0, 128, 0, 0.839);
+    font-family: "Kalam", cursive;
+    font-weight: 550;
+    margin-left: 20px;
+}
+
+.audit-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: auto;
+    border-radius: 10px;
+    border : 7px solid darkgreen;
+}
+
+.audit-heading {
+    text-align: center;
+    color: darkorange;
+    font-family: "Rubik Gemstones", cursive;
+    font-weight: 550;
+    margin-top: 30px;
+}
+
+.Clientele {
+    text-align: center;
+    color: darkorange;
+    font-family: "Rubik Gemstones", cursive;
+    font-weight: 550;
+    margin-top: 30px;
+}
+
+.client-item {
+    color: darkgreen;
+    font-family: "Montserrat", cursive;
+    font-weight: 550;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.services-heading {
+    text-align: center;
+    color: darkorange;
+    font-family: "Rubik Gemstones", cursive;
+    font-weight: 550;
+    margin-top: 30px;
+}
+
+.services{
+    color: darkgreen;
+    font-family: "Montserrat", cursive;
+    font-weight: 550;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.list-item {
+    color: black;
+    font-family: "DynaPuff", cursive;
+    font-weight:400;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.team-heading {
+    text-align: center;
+    color: darkorange;
+    font-family: "Rubik Gemstones", cursive;
+    font-weight: 550;
+    margin-top: 30px;
+}   
+
+.team-member {
+    color: black;
+    font-family: "DynaPuff", cursive;
+    font-weight: 550;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.team {
+    color: black;
+    font-family: "Montserrat", cursive;
+    font-weight: 400;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+#heading-about {
+    text-align: center;
+    color: crimson;
+    font-family: "Rubik Gemstones", cursive;
+    font-weight: 550;
+    margin-top: 30px;
+}
+

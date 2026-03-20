@@ -1,0 +1,37 @@
+body{
+    background-color: antiquewhite;
+}
+
+#heading{
+    text-align: center;
+    color: crimson;
+    font-family: "Lobster Two", cursive;
+}
+
+.description{
+
+    color: black;
+    font-family: "Montserrat", cursive;
+    font-weight: 550;
+}
+
+.tagline{
+    text-align: center;
+    color: darkorange;
+    font-family: "Iosevka Charon Mono", cursive;
+    font-weight:650;
+}
+.photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    border:cadetblue solid 5px;
+}   
+
+.link{
+    text-decoration: none;
+    color: mediumblue;
+    font-family: "Montserrat";
+    font-weight: 550;
+}

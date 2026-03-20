@@ -1,0 +1,41 @@
+    
+#title {
+    color: crimson;
+    text-align: center;
+    font-family: 'Rubik Gemstones', cursive;
+}
+
+.movie-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.movie-poster {
+  width: 150px;
+  height: 250px;
+  border-radius: 8px;
+}
+
+.movie-info {
+  max-width: 500px;
+}
+
+.movie-title{
+  font-family: 'DynaPuff', cursive;
+}
+
+body {
+    background-color: bisque;
+    margin: 20px;
+}
+
+.movie-1 {
+    font-family: 'Iosevka Charon Mono', monospace;
+    font-size: 20px;
+}
+
+.movie-2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}

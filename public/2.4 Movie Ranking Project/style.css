@@ -1,0 +1,19 @@
+.link {
+    color : mediumblue;
+    font-family : 'DynaPuff',sans-serif;
+}
+
+h3 {
+    text-align: center;
+    background-color: aqua;
+}
+
+#title {
+    text-align : center;
+    font-family : "Slackey", 'Arial';
+    color : orangered
+}
+
+body {
+    background-color : oldlace;
+}
